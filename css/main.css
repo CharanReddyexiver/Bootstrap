@@ -1,0 +1,24 @@
+body{
+    font-family: 'Pridi', serif;
+}
+.height{
+    min-height: 100vh;
+}
+.height-80{
+    min-height: 80vh;
+}
+#skills{
+    min-height: 100vh;
+}
+.title-underline{
+    margin: 0 auto!important;
+    width: 150px;
+    height: 5px;
+
+}
+.about-picture{
+    background: url(../images/bg.jpg)center/cover no-repeat fixed;
+}   
+#filler{
+    background: linear-gradient(rgba(0,0,0,0.0), rgba(0,0,0,0.3)), url(../images/project_5.jpg)center/cover no-repeat fixed;
+}
